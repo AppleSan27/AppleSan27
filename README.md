@@ -11,9 +11,10 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Applesan27&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
+  
+ #### 📫 How to reach me:
+  
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/apple_ten/)  &nbsp; <a href="mailto:hlystovaana27@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 <!--
 **AppleSan27/AppleSan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
